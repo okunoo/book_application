@@ -1,0 +1,2 @@
+# book_application
+djangoの勉強用に作成した、自分の読んだ本のレビューを記録するwebサイト
